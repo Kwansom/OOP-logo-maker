@@ -6,9 +6,7 @@ This application will allow developers to generate a simple logo for their proje
 
 ## DEMO
 
-<!--Need to record video and paste link -->
-
-<a href="">Link to DEMO video. </a>
+<a href="https://drive.google.com/file/d/1lSoaesaZp9wtiSGwVL0uBwfqnf4sVL7G/view?usp=sharing">Link to DEMO video. </a>
 
 ## Installation
 
